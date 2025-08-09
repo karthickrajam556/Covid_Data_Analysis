@@ -46,10 +46,45 @@ The goal is to:
 ---
 
 ## 📊 Workflow
-```mermaid
-graph LR
-    A[Big Data Processing<br>(PySpark)] --> B[Machine Learning<br>Prediction<br>(Scikit-learn)]
-    B --> C[Interactive Dashboard<br>(Power BI)]
+
+![Project Workflow]([https://raw.githubusercontent.com/YourUsername/YourRepoName/main/images/workflow.png](https://github.com/karthickrajam556/Covid_Data_Analysis/blob/main/Workflow/WhatsApp%20Image%202025-08-09%20at%2011.05.23_e3d2fce9.jpg))
+
+
+📈 Sample Insights
+Top 10 countries by confirmed cases
+
+Mortality & recovery rates by country
+
+Global statistics for confirmed, deaths, recovered, and active cases
+
+Predictive modeling for estimating deaths from case data
+
+🖥️ How to Run
+1️⃣ PySpark Analysis (Data Processing)
+python covid_analysis_task_1.py
+
+2️⃣ Machine Learning Prediction
+python covid_analysis_task_2.py
+
+3️⃣ Power BI Dashboard
+Open Covid_Dashboard_Task-3.pbix in Power BI Desktop.
+
+📌 Example Use Cases
+Government policy-making support
+
+Healthcare resource planning
+
+Academic research
+
+Media data storytelling
+
+🏆 Key Achievements
+Built a scalable pipeline that can handle large datasets.
+
+Delivered both descriptive and predictive analytics.
+
+Designed a user-friendly dashboard for quick insights.
+
 
 
 
